@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Syaikhu Basyar Suyoko
 
-<!--
-**5uyoko/5uyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate IT student with a focus on cloud computing, web development, and application deployment. I love building projects that solve real-world problems and learning new technologies along the way.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React 
+- **Cloud Computing**: Google Cloud Platform
+- **DevOps**: CI/CD, Docker
+- **Database Management**: MySQL
+
+## 🌱 I’m currently learning
+
+- Advanced JavaScript concepts
+- Containerization with Docker
+- Microservices architecture
+
+## 📫 How to reach me
+
+- **Email**: [syaikhu.basyar@gmail.com](mailto:syaikhu.basyar@gmail.com)
+- **LinkedIn**: [Syaikhu Basyar Suyoko](https://www.linkedin.com/in/syaikhu-basyar-suyoko-71a5aa330/)
+- **Instagram**: [@5uyoko](https://instagram.com/5uyoko)
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
