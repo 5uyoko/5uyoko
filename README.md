@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate IT student with a focus on cloud 
 ## 📫 How to reach me
 
 - **Email**: [syaikhu.basyar@gmail.com](mailto:syaikhu.basyar@gmail.com)
-- **LinkedIn**: [Syaikhu Basyar Suyoko](https://www.linkedin.com/in/syaikhu-basyar-suyoko-71a5aa330/)
+- **LinkedIn**: [Syaikhu Basyar Suyoko](https://www.linkedin.com/in/syaikhu)
 - **Instagram**: [@5uyoko](https://instagram.com/5uyoko)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
